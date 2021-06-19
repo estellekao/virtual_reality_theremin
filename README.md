@@ -11,9 +11,9 @@
   <p align="center">
     Virtual theremin with pitch guide assistance for novice learners. Developed on a View-Master VR headset with Leap Motion controller for hand tracking.
     <br />
-    <a href="https://github.com/estellekao/virtual_reality_theremin/Project_Demo.mp4">View Demo</a>
+    <a href="https://github.com/estellekao/virtual_reality_theremin/blob/main/Project_Demo.mp4">View Demo</a>
     ·
-    <a href="https://github.com/estellekao/virtual_reality_theremin/Project_Final_Report.pdf">View Report</a>
+    <a href="https://github.com/estellekao/virtual_reality_theremin/blob/main/Project_Final_Report.pdf">View Report</a>
   </p>
 </p>
 
@@ -80,7 +80,7 @@ Further readings on [Unity and Leap Motion Controller setup](https://libguides.g
 ##### Material and Coloring:
 | Filename      | Purpose |
 | ----------- | ----------- |
-| Assets/Materials | Theremin coloring |
+| Assets/Materials | theremin object coloring |
 | Assets/Resources/Materials | auditorium 3D background and pitch guide quads |
 
 ##### Sound File:
