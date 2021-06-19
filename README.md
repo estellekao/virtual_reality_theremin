@@ -11,7 +11,7 @@
   <p align="center">
     Virtual theremin with pitch guide assistance for novice learners. Developed on a View-Master VR headset with Leap Motion controller for hand tracking.
     <br />
-    <a href="https://github.com/estellekao/virtual_reality_theremin/blob/main/Project_Demo.mp4">View Demo</a>
+    <a href="https://youtu.be/ZPnSL-hucNo">View Demo</a>
     ·
     <a href="https://github.com/estellekao/virtual_reality_theremin/blob/main/Project_Final_Report.pdf">View Report</a>
   </p>
